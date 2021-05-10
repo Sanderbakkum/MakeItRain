@@ -11,4 +11,5 @@ t = Tijd nodig
 b = Basis bedrag
 
 basis bedrag = 3 Eu
+
 (p + t + 3 = Totaal)
